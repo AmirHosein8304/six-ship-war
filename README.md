@@ -1,11 +1,11 @@
-# Six-ship-war
+# Six ship war
 This is a miny game that programmed with python(used pygame module)
 
-# Game-Overview
+# Game Overview
 In this game two players play against each other on a 5x5 board containing six
 ships; three for each player. The goal is to get your ships across the board before the opponent.
 
-# Set-up
+# Set up
 Player 1 has three ships at the beginning of the second, third and the fourth row, and
 player 2 has three ships at the beginning of the second, third, and the fourth column.
 
@@ -16,7 +16,7 @@ ships, we can jump over that ship and advance by two squares, but if that square
 occupied by an opposing ship, we can’t advance in that row/column, and must move another
 ship.
 
-# Free-turn
+# Free turn
 If all of your opponents moves are restricted, their turn is lost and you get to play
 again.
 
